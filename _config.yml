@@ -28,8 +28,8 @@ rss: "/pages/atom.xml"
 gavatar: "/public/img/gavatar.jpg"
 favicon: "/public/img/favicon.ico"
 ga:
-  id: UA-74789926-1
-  url: https://xiamuyao.github.io
+  id: UA-136957217-1
+  url: https://xiamuyao.github.io/
 disqus:
   shortname: xiamuyao-github-io
 active: 编程
