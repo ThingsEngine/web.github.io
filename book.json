@@ -1,0 +1,24 @@
+{
+	"title": "JimmyLv's Note Book Set name",
+	"links": {
+		"sharing": {
+			"all": null,
+			"facebook": null,
+			"google": null,
+			"twitter": null,
+			"weibo": null
+		},
+		"sidebar": {
+			"JimmyLv's Blog Set name": "http:=v.info"
+		}
+	},
+	"styles": {
+        "website": "public/css/yue.css"
+    },
+	"plugins": ["disqus"],
+	"pluginsConfig": {
+		"disqus": {
+            "shortName": "xiamuyao-github-io"
+        }
+	}
+}
