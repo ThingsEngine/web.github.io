@@ -18,7 +18,7 @@ published: True
 
 ## 手动安装 Package Control 
 
-首先去这个[链接](https://github.com/wbond/sublime_package_control)下载 Package Control 之后把下载得包 解压 重命名为 Package Control 复制到sublime存放插件的目录。
+首先去这个[链接](https://github.com/wbond/sublime_package_control)下载 Release 版本的 Package Control 之后把下载得包 解压 重命名为 Package Control 复制到sublime存放插件的目录。
 
 ![](https://ws3.sinaimg.cn/large/005BYqpggy1g1p656cynqj30h20chabj.jpg)
 
