@@ -8,7 +8,7 @@ published: True
 
 ## 本文的目标
 
-2.1 使用 Sublime Text 3 进行插件的安装？
+使用 Sublime Text 3 进行插件的安装？
 
 ```md
 // Given
