@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sublime Text 3 安装插件究极猪皮解决方案"
-categories: [安装]
+categories: [资源]
 tags: [Sublime Text]
 published: True
 ---
