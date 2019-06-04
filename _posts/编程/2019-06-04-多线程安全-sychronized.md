@@ -10,7 +10,7 @@ published: True
 ## 造成线程数据错乱的三要素 ( 同时也是保持线程安全的要素 )
 
 -  **原子性**（Synchronized, Lock）即一个操作或者多个操作，要么执行 要么就都不执行，在执行过程中不可打断
--  **有序性 ** (Volatile，Synchronized, Lock)  程序默认的执行顺序
+-  **有序性** (Volatile，Synchronized, Lock)  程序默认的执行顺序
 -  **可见性**  (Volatile，Synchronized,Lock)  当变量被修改时，所修改的值会被立即同步到主存中，其他程序或者进程再读取时获取的值是最新的
 
 ## synchronized的三种应用方式
